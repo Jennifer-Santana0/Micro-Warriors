@@ -1,0 +1,14 @@
+CollisionShape2D
+Area2D
+ProgressBar
+TextureButton
+VBoxContainer
+CenterContainer
+ColorRect
+CanvasLayer
+Marker2D
+Node
+AnimationPlayer
+Sprite2D
+CharacterBody2D
+Timer

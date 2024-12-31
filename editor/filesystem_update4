@@ -1,0 +1,14 @@
+res://cenas/laboratorio/outros/inicio.tscn
+res://scripts/hotbar/hotbar.gd
+res://cenas/fase/fase_1/cientista/cientista.tscn
+res://cenas/fase/outros/ferramentas/bequer.tscn
+res://cenas/fase/fase_1/fase/fase_1.tscn
+res://cenas/fase/fase_1/fase/chao_1.tscn
+res://cenas/laboratorio/outros/laboratorio.tscn
+res://cenas/hotbar/hotbar.tscn
+res://cenas/hotbar/slot.tscn
+res://cenas/menu/menu.tscn
+res://cenas/fase/inimigos/slime.tscn
+res://scripts/fase/fase_1/cientista/cientista.gd
+res://scripts/fase/inimigos/slime.gd
+res://scripts/fase/outros/ferramentas/bequer.gd
