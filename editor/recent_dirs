@@ -1,3 +1,6 @@
+res://scripts/laboratorio/outros
+res://cenas/laboratorio/outros
+res://sprites/laboratorio/itens_interagiveis
 res://
 res://scripts/fase/inimigos
 res://cenas/fase/inimigos
@@ -8,8 +11,6 @@ res://scripts/resouce/src/itens
 res://cenas/fase/fase_1/cientista
 res://scripts/fase/fase_1
 res://cenas/fase
-res://cenas/laboratorio/outros
-res://scripts/laboratorio/outros
 res://sprites/laboratorio/lab
 res://sprites/laboratorio/minigame/mingame_2
 res://addons/post_processing
@@ -19,4 +20,3 @@ res://sprites/ui/cursor
 res://cenas/menu
 res://scripts/menu
 res://scripts
-res://cenas/laboratorio/player
