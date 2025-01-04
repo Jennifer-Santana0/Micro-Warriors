@@ -15,3 +15,14 @@ res://cenas/laboratorio/outros/soltar.tscn
 res://cenas/laboratorio/outros/pegar.tscn
 res://scripts/laboratorio/outros/pegar.gd
 res://scripts/laboratorio/outros/game_2.gd
+res://cenas/laboratorio/outros/item.tscn
+res://scripts/laboratorio/outros/item.gd
+res://scripts/fase/outros/coletaveis/globolo_branco.gd
+res://cenas/fase/outros/coletaveis/globolo_branco.tscn
+res://scripts/fase/fase_1/cientista/cientista.gd
+res://cenas/laboratorio/outros/cura.tscn
+res://cenas/laboratorio/outros/bau.tscn
+res://cenas/laboratorio/outros/pegar_item.tscn
+res://cenas/fase/outros/coletaveis/anticorpo.tscn
+res://scripts/fase/outros/coletaveis/anticorpo.gd
+res://scripts/fase/inimigos/inimigo.gd

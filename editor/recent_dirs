@@ -1,3 +1,5 @@
+res://scripts/fase/outros/coletaveis
+res://cenas/fase/outros/coletaveis
 res://scripts/fase/inimigos
 res://sprites/fase/inimigos/verme
 res://cenas/fase/inimigos
@@ -18,5 +20,3 @@ res://addons/post_processing
 res://addons
 res://scripts/laboratorio/player
 res://sprites/ui/cursor
-res://cenas/menu
-res://scripts/menu
