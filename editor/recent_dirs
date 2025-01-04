@@ -1,9 +1,10 @@
+res://scripts/fase/inimigos
+res://sprites/fase/inimigos/verme
+res://cenas/fase/inimigos
 res://scripts/laboratorio/outros
 res://cenas/laboratorio/outros
 res://sprites/laboratorio/itens_interagiveis
 res://
-res://scripts/fase/inimigos
-res://cenas/fase/inimigos
 res://cenas/fase/fase_1/fase
 res://scripts/fase/outros/ferramentas
 res://cenas/fase/outros/ferramentas
@@ -19,4 +20,3 @@ res://scripts/laboratorio/player
 res://sprites/ui/cursor
 res://cenas/menu
 res://scripts/menu
-res://scripts
