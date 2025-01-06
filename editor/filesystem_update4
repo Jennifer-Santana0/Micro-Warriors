@@ -11,3 +11,4 @@ res://scripts/save.gd
 res://scripts/laboratorio/player/player.gd
 res://scripts/fase/fase_1/cientista/cientista.gd
 res://cenas/fase/fase_1/cientista/cientista.tscn
+res://cenas/fase/outros/coletaveis/globolo_branco.tscn
