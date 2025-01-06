@@ -1,14 +1,7 @@
-res://cenas/hotbar/hotbar.tscn
-res://scripts/hotbar/hotbar.gd
-res://scripts/save.gd
 res://cenas/laboratorio/outros/inicio.tscn
+res://scripts/hotbar/hotbar.gd
 res://cenas/fase/fase_1/fase/fase_1.tscn
 res://cenas/laboratorio/player/player.tscn
+res://cenas/hotbar/hotbar.tscn
 res://cenas/laboratorio/outros/store.tscn
 res://cenas/laboratorio/outros/produto.tscn
-res://scripts/laboratorio/outros/produto.gd
-res://scripts/laboratorio/player/player.gd
-res://scripts/fase/fase_1/fase/fase_1.gd
-res://scripts/laboratorio/outros/pharma_lab.gd
-res://scripts/fase/outros/coletaveis/anticorpo.gd
-res://scripts/fase/fase_1/cientista/cientista.gd
