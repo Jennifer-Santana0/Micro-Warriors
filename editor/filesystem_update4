@@ -5,3 +5,9 @@ res://cenas/laboratorio/player/player.tscn
 res://cenas/hotbar/hotbar.tscn
 res://cenas/laboratorio/outros/store.tscn
 res://cenas/laboratorio/outros/produto.tscn
+res://scripts/resouce/src/itens/bioshield.tres
+res://scripts/resouce/src/itens/antiviral.tres
+res://scripts/save.gd
+res://scripts/laboratorio/player/player.gd
+res://scripts/fase/fase_1/cientista/cientista.gd
+res://cenas/fase/fase_1/cientista/cientista.tscn
