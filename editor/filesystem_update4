@@ -1,7 +1,10 @@
 res://cenas/laboratorio/outros/inicio.tscn
 res://scripts/hotbar/hotbar.gd
-res://scripts/fase/fase_1/fase/fase_1.gd
 res://cenas/fase/fase_1/fase/fase_1.tscn
+res://scripts/fase/fase_1/fase/fase_1.gd
 res://cenas/fase/fase_1/cientista/cientista.tscn
 res://cenas/fase/outros/coletaveis/globolo_branco.tscn
-res://scripts/save.gd
+res://scripts/fase/fase_1/cientista/cientista.gd
+res://scripts/fase/outros/coletaveis/globolo_branco.gd
+res://scripts/fase/outros/outros/ganhou.gd
+res://cenas/fase/outros/outros/ganhou.tscn

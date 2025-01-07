@@ -1,3 +1,5 @@
+res://scripts/fase/outros/outros
+res://cenas/fase/outros/outros
 res://scripts/fase/outros/coletaveis
 res://cenas/fase/outros/coletaveis
 res://scripts/fase/inimigos
@@ -18,5 +20,3 @@ res://sprites/laboratorio/lab
 res://sprites/laboratorio/minigame/mingame_2
 res://addons/post_processing
 res://addons
-res://scripts/laboratorio/player
-res://sprites/ui/cursor
