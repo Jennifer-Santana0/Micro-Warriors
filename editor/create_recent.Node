@@ -1,9 +1,9 @@
+Label
 Timer
 TextureRect
 AnimationPlayer
 ColorRect
 Sprite2D
-Label
 CollisionShape2D
 Area2D
 TextureButton
