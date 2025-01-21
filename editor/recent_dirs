@@ -1,12 +1,15 @@
+res://scripts/laboratorio/outros
+res://cenas/laboratorio/outros
+res://scripts/fase/inimigos
+res://cenas/fase/inimigos
+res://scripts/fase/fase_1/fase
+res://cenas/fase/fase_3/fase
+res://cenas/fase/fase_2/fase
 res://scripts/fase/outros/outros
 res://cenas/fase/outros/outros
 res://scripts/fase/outros/coletaveis
 res://cenas/fase/outros/coletaveis
-res://scripts/fase/inimigos
 res://sprites/fase/inimigos/verme
-res://cenas/fase/inimigos
-res://scripts/laboratorio/outros
-res://cenas/laboratorio/outros
 res://sprites/laboratorio/itens_interagiveis
 res://
 res://cenas/fase/fase_1/fase
@@ -17,6 +20,3 @@ res://cenas/fase/fase_1/cientista
 res://scripts/fase/fase_1
 res://cenas/fase
 res://sprites/laboratorio/lab
-res://sprites/laboratorio/minigame/mingame_2
-res://addons/post_processing
-res://addons
