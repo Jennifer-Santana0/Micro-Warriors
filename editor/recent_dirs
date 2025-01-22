@@ -1,3 +1,4 @@
+res://sprites/laboratorio/itens_interagiveis
 res://scripts/laboratorio/outros
 res://cenas/laboratorio/outros
 res://scripts/fase/inimigos
@@ -10,7 +11,6 @@ res://cenas/fase/outros/outros
 res://scripts/fase/outros/coletaveis
 res://cenas/fase/outros/coletaveis
 res://sprites/fase/inimigos/verme
-res://sprites/laboratorio/itens_interagiveis
 res://
 res://cenas/fase/fase_1/fase
 res://scripts/fase/outros/ferramentas
