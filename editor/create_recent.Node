@@ -1,7 +1,7 @@
-Label
-MarginContainer
-ColorRect
 Timer
+Label
+ColorRect
+MarginContainer
 CollisionShape2D
 Area2D
 Sprite2D
