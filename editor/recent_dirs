@@ -1,8 +1,10 @@
 res://scripts/laboratorio/outros
 res://cenas/laboratorio/outros
-res://sprites/laboratorio/itens_interagiveis
+res://scripts/laboratorio
 res://scripts/fase/inimigos
+res://sprites/fase/inimigos/virus
 res://cenas/fase/inimigos
+res://sprites/laboratorio/itens_interagiveis
 res://scripts/fase/fase_1/fase
 res://cenas/fase/fase_3/fase
 res://cenas/fase/fase_2/fase
@@ -18,5 +20,3 @@ res://cenas/fase/outros/ferramentas
 res://scripts/resouce/src/itens
 res://cenas/fase/fase_1/cientista
 res://scripts/fase/fase_1
-res://cenas/fase
-res://sprites/laboratorio/lab
